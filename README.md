@@ -33,7 +33,8 @@ I'm a software developer working on projects.
 I’m open to collaborations on Flutter apps, Odoo modules, and automation/AI experiments. Feel free to:
 - Open an issue or PR on any repo
 - Star or fork projects you find useful
-- Reach out on GitHub: https://github.com/Tejas-Panchal
+- Reach out on GitHub: https://github.com/Tejas-Panchal/
+- LinkedIn: https://www.linkedin.com/in/tejas-panchal-027153296/
 
 ---
 
